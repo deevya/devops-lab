@@ -1,1 +1,6 @@
 Welcome to devops lab!!
+Added comments...
+some more to delete later...
+Lab1: Git
+Lab2: Maven
+Lab3: Jenkins pipeline
